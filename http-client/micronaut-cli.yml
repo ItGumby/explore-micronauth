@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: io.github.itgumby
+---
+testFramework: spock
+sourceLanguage: java
