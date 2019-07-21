@@ -1,0 +1,9 @@
+= experiments in Micronaut
+
+== project options
+
+1. `mn create-app io.github.itgumby.default-project`
+1. `mn create-app io.github.itgumby.groovy-project --lang=groovy`
+1. `mn create-app io.github.itgumby.spock-project --features=spock`  default Java but spock for unit testing
+1. `mn create-app io.github.itgumby.maven-project --lang=groovy --build=maven`
+1. alternately, create the folers and add `--inplace` to arguments of _create-app_
